@@ -1,0 +1,25 @@
+
+Initial Chunk Files                                                                    | Names                                                        |  Raw Size
+vendor.js                                                                              | vendor                                                       |   5.68 MB |
+scripts.js                                                                             | scripts                                                      |   4.63 MB |
+main.js                                                                                | main                                                         |   1.95 MB |
+styles.css, styles.js                                                                  | styles                                                       | 919.80 kB |
+polyfills.js                                                                           | polyfills                                                    | 297.03 kB |
+runtime.js                                                                             | runtime                                                      |  14.45 kB |
+
+| Initial Total                                                |  13.47 MB
+
+Lazy Chunk Files                                                                       | Names                                                        |  Raw Size
+src_app_module_home_home_module_ts.js                                                  | module-home-home-module                                      |   1.71 MB |
+src_app_module_invoice_invoice_module_ts.js                                            | module-invoice-invoice-module                                |   1.14 MB |
+src_app_module_auth_auth_module_ts.js                                                  | module-auth-auth-module                                      |  79.03 kB |
+default-node_modules_ngx-bootstrap_pagination_fesm2015_ngx-bootstrap-pagination_mjs.js | module-home-home-module                                      |  42.45 kB |
+src_app_module__private-developer-only_private-developer-only_module_ts.js             | module-_private-developer-only-private-developer-only-module |  21.44 kB |
+src_app_module_support_support_module_ts.js                                            | module-support-support-module                                |  15.55 kB |
+
+Build at: 2023-02-21T05:29:16.978Z - Hash: dabcfff41f3cf400 - Time: 76397ms
+
+** Angular Live Development Server is listening on localhost:4500, open your browser on http://localhost:4500/ **
+
+
+√ Compiled successfully.
